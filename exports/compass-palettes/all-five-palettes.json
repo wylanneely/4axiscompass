@@ -1,0 +1,722 @@
+[
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Garnet",
+    "HEX": "#A52A43",
+    "OKLCH": "oklch(48.5% 0.159 14.0)",
+    "Rationale": "Concentrated red ancestry."
+  },
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Scarlet",
+    "HEX": "#EE4B4B",
+    "OKLCH": "oklch(64.3% 0.200 24.7)",
+    "Rationale": "Clear, energetic red."
+  },
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Terracotta",
+    "HEX": "#B96950",
+    "OKLCH": "oklch(60.5% 0.109 38.1)",
+    "Rationale": "Grounded red-orange."
+  },
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Rose",
+    "HEX": "#EBA4B2",
+    "OKLCH": "oklch(79.1% 0.086 6.2)",
+    "Rationale": "Open, softer red-pink."
+  },
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Midnight blue",
+    "HEX": "#244675",
+    "OKLCH": "oklch(39.3% 0.089 256.9)",
+    "Rationale": "Concentrated blue anchor."
+  },
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Azure",
+    "HEX": "#168BDD",
+    "OKLCH": "oklch(61.9% 0.155 246.8)",
+    "Rationale": "Expansive, vivid blue."
+  },
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Denim",
+    "HEX": "#607B96",
+    "OKLCH": "oklch(57.2% 0.052 248.8)",
+    "Rationale": "Quiet, grounded blue."
+  },
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Ice blue",
+    "HEX": "#96CFF0",
+    "OKLCH": "oklch(82.7% 0.075 234.3)",
+    "Rationale": "Airy blue ancestry."
+  },
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Blackberry",
+    "HEX": "#642D73",
+    "OKLCH": "oklch(40.3% 0.126 318.5)",
+    "Rationale": "Rich, intimate purple."
+  },
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Iris",
+    "HEX": "#8252E8",
+    "OKLCH": "oklch(57.3% 0.215 293.1)",
+    "Rationale": "Energetic violet."
+  },
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Heather",
+    "HEX": "#9B7296",
+    "OKLCH": "oklch(60.5% 0.072 330.6)",
+    "Rationale": "Earthier purple-rose."
+  },
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Lilac",
+    "HEX": "#C3AFE9",
+    "OKLCH": "oklch(79.1% 0.084 300.3)",
+    "Rationale": "Spacious, light violet."
+  },
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Pine",
+    "HEX": "#226548",
+    "OKLCH": "oklch(45.6% 0.083 161.5)",
+    "Rationale": "Deep green concentration."
+  },
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Emerald",
+    "HEX": "#20AE78",
+    "OKLCH": "oklch(66.7% 0.140 161.3)",
+    "Rationale": "Clear, active green."
+  },
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Moss",
+    "HEX": "#85934A",
+    "OKLCH": "oklch(63.5% 0.099 118.3)",
+    "Rationale": "Grounded yellow-green."
+  },
+  {
+    "Palette": "A · Evolutionary compass",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Sea glass",
+    "HEX": "#8BCBB7",
+    "OKLCH": "oklch(79.3% 0.071 172.9)",
+    "Rationale": "Open, cool green."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Ruby",
+    "HEX": "#B52346",
+    "OKLCH": "oklch(50.9% 0.180 13.7)",
+    "Rationale": "Rich red foundation."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Coral",
+    "HEX": "#F46B56",
+    "OKLCH": "oklch(69.2% 0.173 30.8)",
+    "Rationale": "Outward, energetic warmth."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Copper",
+    "HEX": "#B96528",
+    "OKLCH": "oklch(59.3% 0.130 52.7)",
+    "Rationale": "Grounded warm metal."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Blush pink",
+    "HEX": "#F3A7CA",
+    "OKLCH": "oklch(81.2% 0.099 350.3)",
+    "Rationale": "Airy, cooler red relative."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Cobalt",
+    "HEX": "#2854C5",
+    "OKLCH": "oklch(48.6% 0.183 264.4)",
+    "Rationale": "Concentrated blue ancestry."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Electric cyan",
+    "HEX": "#00B9D6",
+    "OKLCH": "oklch(72.3% 0.127 214.2)",
+    "Rationale": "Clear, outward blue-green."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Marigold",
+    "HEX": "#D5A51D",
+    "OKLCH": "oklch(74.6% 0.146 86.5)",
+    "Rationale": "Grounded gold counterpoint."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Sky",
+    "HEX": "#8BC9F1",
+    "OKLCH": "oklch(80.8% 0.085 237.5)",
+    "Rationale": "Open, spacious blue."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Fuchsia",
+    "HEX": "#D42B91",
+    "OKLCH": "oklch(59.1% 0.220 349.4)",
+    "Rationale": "Rich warm purple relative."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Violet",
+    "HEX": "#7550E8",
+    "OKLCH": "oklch(55.8% 0.217 288.5)",
+    "Rationale": "Clear, energetic purple."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Mulberry",
+    "HEX": "#75456D",
+    "OKLCH": "oklch(46.1% 0.087 333.2)",
+    "Rationale": "Grounded red-purple."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Lavender",
+    "HEX": "#B3A0E6",
+    "OKLCH": "oklch(74.8% 0.101 296.3)",
+    "Rationale": "Airy violet ancestry."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Jade",
+    "HEX": "#147D56",
+    "OKLCH": "oklch(52.4% 0.109 161.8)",
+    "Rationale": "Concentrated living green."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Chartreuse",
+    "HEX": "#B9CF35",
+    "OKLCH": "oklch(81.1% 0.171 117.6)",
+    "Rationale": "Luminous yellow-green."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Olive",
+    "HEX": "#737A35",
+    "OKLCH": "oklch(55.8% 0.093 114.3)",
+    "Rationale": "Grounded green ancestry."
+  },
+  {
+    "Palette": "B · Full-spectrum 16",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Lagoon",
+    "HEX": "#58B7A5",
+    "OKLCH": "oklch(71.7% 0.094 179.4)",
+    "Rationale": "Open, cool green-teal."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Carmine",
+    "HEX": "#BA3059",
+    "OKLCH": "oklch(53.3% 0.175 8.0)",
+    "Rationale": "Rich red-pink starting point."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Tangerine",
+    "HEX": "#F58A38",
+    "OKLCH": "oklch(73.6% 0.159 54.0)",
+    "Rationale": "Warmth opens into orange."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Saffron",
+    "HEX": "#C6A33D",
+    "OKLCH": "oklch(72.9% 0.125 89.7)",
+    "Rationale": "Grounded golden turn."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Butter yellow",
+    "HEX": "#EFDD86",
+    "OKLCH": "oklch(89.4% 0.109 97.9)",
+    "Rationale": "Light, open warm endpoint."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Ink blue",
+    "HEX": "#354B9B",
+    "OKLCH": "oklch(44.0% 0.133 268.8)",
+    "Rationale": "Concentrated blue anchor."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Ultramarine",
+    "HEX": "#535EF0",
+    "OKLCH": "oklch(56.1% 0.216 273.8)",
+    "Rationale": "Electric outward blue."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Blue teal",
+    "HEX": "#367D8A",
+    "OKLCH": "oklch(55.0% 0.073 211.4)",
+    "Rationale": "Grounded blue-green turn."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Glacier",
+    "HEX": "#7DD4D3",
+    "OKLCH": "oklch(81.5% 0.084 194.7)",
+    "Rationale": "Airy cyan endpoint."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Grape",
+    "HEX": "#77368E",
+    "OKLCH": "oklch(45.8% 0.149 316.3)",
+    "Rationale": "Rich purple anchor."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Hot pink",
+    "HEX": "#E747A4",
+    "OKLCH": "oklch(65.1% 0.214 348.9)",
+    "Rationale": "Expressive purple-to-pink."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Clay rose",
+    "HEX": "#B46B87",
+    "OKLCH": "oklch(61.6% 0.099 355.9)",
+    "Rationale": "Grounded pink bridge."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Peach",
+    "HEX": "#F5B598",
+    "OKLCH": "oklch(82.5% 0.085 45.4)",
+    "Rationale": "Open warm endpoint."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Rainforest",
+    "HEX": "#216F54",
+    "OKLCH": "oklch(48.7% 0.087 165.9)",
+    "Rationale": "Concentrated green anchor."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Spring green",
+    "HEX": "#72BC47",
+    "OKLCH": "oklch(72.2% 0.169 135.8)",
+    "Rationale": "Energetic yellow-green."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Citron",
+    "HEX": "#A6AB3C",
+    "OKLCH": "oklch(71.6% 0.133 111.8)",
+    "Rationale": "Grounded green-gold."
+  },
+  {
+    "Palette": "C · Spectrum ribbons",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Mint",
+    "HEX": "#A5DCB6",
+    "OKLCH": "oklch(84.6% 0.077 154.3)",
+    "Rationale": "Airy green endpoint."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Oxblood",
+    "HEX": "#8E3045",
+    "OKLCH": "oklch(45.2% 0.128 10.3)",
+    "Rationale": "Dense, warm red jewel."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Vermilion",
+    "HEX": "#DE573D",
+    "OKLCH": "oklch(62.9% 0.174 32.8)",
+    "Rationale": "Clear mineral red-orange."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Bronze",
+    "HEX": "#A8783B",
+    "OKLCH": "oklch(60.9% 0.098 70.6)",
+    "Rationale": "Grounded metallic warmth."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Porcelain rose",
+    "HEX": "#DE9EAC",
+    "OKLCH": "oklch(76.4% 0.078 4.7)",
+    "Rationale": "Quiet, open rose."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Sapphire",
+    "HEX": "#30579D",
+    "OKLCH": "oklch(46.6% 0.122 261.1)",
+    "Rationale": "Deep blue jewel."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Cerulean",
+    "HEX": "#269DBB",
+    "OKLCH": "oklch(64.6% 0.108 219.5)",
+    "Rationale": "Clear, outward blue."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Antique gold",
+    "HEX": "#B8A04B",
+    "OKLCH": "oklch(71.0% 0.109 93.7)",
+    "Rationale": "Earthbound gold exception."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Blue quartz",
+    "HEX": "#93BACC",
+    "OKLCH": "oklch(76.7% 0.049 227.8)",
+    "Rationale": "Spacious mineral blue."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Orchid",
+    "HEX": "#A92CAA",
+    "OKLCH": "oklch(53.6% 0.211 327.7)",
+    "Rationale": "Rich warm purple."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Amethyst",
+    "HEX": "#8960C5",
+    "OKLCH": "oklch(57.7% 0.153 300.4)",
+    "Rationale": "Clear violet jewel."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Aubergine",
+    "HEX": "#56385E",
+    "OKLCH": "oklch(39.1% 0.073 319.0)",
+    "Rationale": "Grounded, concentrated plum."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Wisteria",
+    "HEX": "#B3A3D0",
+    "OKLCH": "oklch(74.4% 0.066 301.1)",
+    "Rationale": "Open mineral violet."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Malachite",
+    "HEX": "#257658",
+    "OKLCH": "oklch(50.9% 0.092 164.6)",
+    "Rationale": "Deep green jewel."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Peridot",
+    "HEX": "#A4BF4B",
+    "OKLCH": "oklch(76.1% 0.145 121.0)",
+    "Rationale": "Luminous yellow-green."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Laurel",
+    "HEX": "#697B4C",
+    "OKLCH": "oklch(55.6% 0.072 125.7)",
+    "Rationale": "Grounded botanical green."
+  },
+  {
+    "Palette": "D · Mineral & jewel",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Amazonite",
+    "HEX": "#71B7A8",
+    "OKLCH": "oklch(72.9% 0.074 178.9)",
+    "Rationale": "Spacious blue-green stone."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Ruby",
+    "HEX": "#B52346",
+    "OKLCH": "oklch(50.9% 0.180 13.7)",
+    "Rationale": "Rich red anchor; B."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Tangerine",
+    "HEX": "#F58A38",
+    "OKLCH": "oklch(73.6% 0.159 54.0)",
+    "Rationale": "Radiant outward warmth; C."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Terracotta",
+    "HEX": "#B96950",
+    "OKLCH": "oklch(60.5% 0.109 38.1)",
+    "Rationale": "Grounded red-orange; A."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Authoritarian Left",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Blush pink",
+    "HEX": "#F3A7CA",
+    "OKLCH": "oklch(81.2% 0.099 350.3)",
+    "Rationale": "Airy, cooler red relative; B."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Cobalt",
+    "HEX": "#2854C5",
+    "OKLCH": "oklch(48.6% 0.183 264.4)",
+    "Rationale": "Concentrated blue anchor; B."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Electric cyan",
+    "HEX": "#00B9D6",
+    "OKLCH": "oklch(72.3% 0.127 214.2)",
+    "Rationale": "Clear, expansive blue-green; B."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Marigold",
+    "HEX": "#D5A51D",
+    "OKLCH": "oklch(74.6% 0.146 86.5)",
+    "Rationale": "Grounded gold exception; B."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Authoritarian Right",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Sky",
+    "HEX": "#8BC9F1",
+    "OKLCH": "oklch(80.8% 0.085 237.5)",
+    "Rationale": "Open, spacious blue; B."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Orchid",
+    "HEX": "#A92CAA",
+    "OKLCH": "oklch(53.6% 0.211 327.7)",
+    "Rationale": "Rich warm purple; D."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Violet",
+    "HEX": "#7550E8",
+    "OKLCH": "oklch(55.8% 0.217 288.5)",
+    "Rationale": "Clear, energetic purple; B."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Aubergine",
+    "HEX": "#56385E",
+    "OKLCH": "oklch(39.1% 0.073 319.0)",
+    "Rationale": "Earthier, anchored plum; D."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Libertarian Right",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Lavender",
+    "HEX": "#B3A0E6",
+    "OKLCH": "oklch(74.8% 0.101 296.3)",
+    "Rationale": "Airy violet ancestry; B."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Agency + Proximal",
+    "Color Name": "Jade",
+    "HEX": "#147D56",
+    "OKLCH": "oklch(52.4% 0.109 161.8)",
+    "Rationale": "Concentrated living green; B."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Agency + Universal",
+    "Color Name": "Chartreuse",
+    "HEX": "#B9CF35",
+    "OKLCH": "oklch(81.1% 0.171 117.6)",
+    "Rationale": "Luminous yellow-green; B."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Structure + Proximal",
+    "Color Name": "Olive",
+    "HEX": "#737A35",
+    "OKLCH": "oklch(55.8% 0.093 114.3)",
+    "Rationale": "Grounded botanical green; B."
+  },
+  {
+    "Palette": "E · Best-of — Prism & mineral",
+    "Political Region": "Libertarian Left",
+    "Worldview Region": "Structure + Universal",
+    "Color Name": "Lagoon",
+    "HEX": "#379E9B",
+    "OKLCH": "oklch(64.0% 0.093 192.3)",
+    "Rationale": "Cool green-teal; refined from B."
+  }
+]

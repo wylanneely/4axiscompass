@@ -1,0 +1,81 @@
+Palette,Political Region,Worldview Region,Color Name,HEX,OKLCH,Rationale
+A · Evolutionary compass,Authoritarian Left,Agency + Proximal,Garnet,#A52A43,oklch(48.5% 0.159 14.0),Concentrated red ancestry.
+A · Evolutionary compass,Authoritarian Left,Agency + Universal,Scarlet,#EE4B4B,oklch(64.3% 0.200 24.7),"Clear, energetic red."
+A · Evolutionary compass,Authoritarian Left,Structure + Proximal,Terracotta,#B96950,oklch(60.5% 0.109 38.1),Grounded red-orange.
+A · Evolutionary compass,Authoritarian Left,Structure + Universal,Rose,#EBA4B2,oklch(79.1% 0.086 6.2),"Open, softer red-pink."
+A · Evolutionary compass,Authoritarian Right,Agency + Proximal,Midnight blue,#244675,oklch(39.3% 0.089 256.9),Concentrated blue anchor.
+A · Evolutionary compass,Authoritarian Right,Agency + Universal,Azure,#168BDD,oklch(61.9% 0.155 246.8),"Expansive, vivid blue."
+A · Evolutionary compass,Authoritarian Right,Structure + Proximal,Denim,#607B96,oklch(57.2% 0.052 248.8),"Quiet, grounded blue."
+A · Evolutionary compass,Authoritarian Right,Structure + Universal,Ice blue,#96CFF0,oklch(82.7% 0.075 234.3),Airy blue ancestry.
+A · Evolutionary compass,Libertarian Right,Agency + Proximal,Blackberry,#642D73,oklch(40.3% 0.126 318.5),"Rich, intimate purple."
+A · Evolutionary compass,Libertarian Right,Agency + Universal,Iris,#8252E8,oklch(57.3% 0.215 293.1),Energetic violet.
+A · Evolutionary compass,Libertarian Right,Structure + Proximal,Heather,#9B7296,oklch(60.5% 0.072 330.6),Earthier purple-rose.
+A · Evolutionary compass,Libertarian Right,Structure + Universal,Lilac,#C3AFE9,oklch(79.1% 0.084 300.3),"Spacious, light violet."
+A · Evolutionary compass,Libertarian Left,Agency + Proximal,Pine,#226548,oklch(45.6% 0.083 161.5),Deep green concentration.
+A · Evolutionary compass,Libertarian Left,Agency + Universal,Emerald,#20AE78,oklch(66.7% 0.140 161.3),"Clear, active green."
+A · Evolutionary compass,Libertarian Left,Structure + Proximal,Moss,#85934A,oklch(63.5% 0.099 118.3),Grounded yellow-green.
+A · Evolutionary compass,Libertarian Left,Structure + Universal,Sea glass,#8BCBB7,oklch(79.3% 0.071 172.9),"Open, cool green."
+B · Full-spectrum 16,Authoritarian Left,Agency + Proximal,Ruby,#B52346,oklch(50.9% 0.180 13.7),Rich red foundation.
+B · Full-spectrum 16,Authoritarian Left,Agency + Universal,Coral,#F46B56,oklch(69.2% 0.173 30.8),"Outward, energetic warmth."
+B · Full-spectrum 16,Authoritarian Left,Structure + Proximal,Copper,#B96528,oklch(59.3% 0.130 52.7),Grounded warm metal.
+B · Full-spectrum 16,Authoritarian Left,Structure + Universal,Blush pink,#F3A7CA,oklch(81.2% 0.099 350.3),"Airy, cooler red relative."
+B · Full-spectrum 16,Authoritarian Right,Agency + Proximal,Cobalt,#2854C5,oklch(48.6% 0.183 264.4),Concentrated blue ancestry.
+B · Full-spectrum 16,Authoritarian Right,Agency + Universal,Electric cyan,#00B9D6,oklch(72.3% 0.127 214.2),"Clear, outward blue-green."
+B · Full-spectrum 16,Authoritarian Right,Structure + Proximal,Marigold,#D5A51D,oklch(74.6% 0.146 86.5),Grounded gold counterpoint.
+B · Full-spectrum 16,Authoritarian Right,Structure + Universal,Sky,#8BC9F1,oklch(80.8% 0.085 237.5),"Open, spacious blue."
+B · Full-spectrum 16,Libertarian Right,Agency + Proximal,Fuchsia,#D42B91,oklch(59.1% 0.220 349.4),Rich warm purple relative.
+B · Full-spectrum 16,Libertarian Right,Agency + Universal,Violet,#7550E8,oklch(55.8% 0.217 288.5),"Clear, energetic purple."
+B · Full-spectrum 16,Libertarian Right,Structure + Proximal,Mulberry,#75456D,oklch(46.1% 0.087 333.2),Grounded red-purple.
+B · Full-spectrum 16,Libertarian Right,Structure + Universal,Lavender,#B3A0E6,oklch(74.8% 0.101 296.3),Airy violet ancestry.
+B · Full-spectrum 16,Libertarian Left,Agency + Proximal,Jade,#147D56,oklch(52.4% 0.109 161.8),Concentrated living green.
+B · Full-spectrum 16,Libertarian Left,Agency + Universal,Chartreuse,#B9CF35,oklch(81.1% 0.171 117.6),Luminous yellow-green.
+B · Full-spectrum 16,Libertarian Left,Structure + Proximal,Olive,#737A35,oklch(55.8% 0.093 114.3),Grounded green ancestry.
+B · Full-spectrum 16,Libertarian Left,Structure + Universal,Lagoon,#58B7A5,oklch(71.7% 0.094 179.4),"Open, cool green-teal."
+C · Spectrum ribbons,Authoritarian Left,Agency + Proximal,Carmine,#BA3059,oklch(53.3% 0.175 8.0),Rich red-pink starting point.
+C · Spectrum ribbons,Authoritarian Left,Agency + Universal,Tangerine,#F58A38,oklch(73.6% 0.159 54.0),Warmth opens into orange.
+C · Spectrum ribbons,Authoritarian Left,Structure + Proximal,Saffron,#C6A33D,oklch(72.9% 0.125 89.7),Grounded golden turn.
+C · Spectrum ribbons,Authoritarian Left,Structure + Universal,Butter yellow,#EFDD86,oklch(89.4% 0.109 97.9),"Light, open warm endpoint."
+C · Spectrum ribbons,Authoritarian Right,Agency + Proximal,Ink blue,#354B9B,oklch(44.0% 0.133 268.8),Concentrated blue anchor.
+C · Spectrum ribbons,Authoritarian Right,Agency + Universal,Ultramarine,#535EF0,oklch(56.1% 0.216 273.8),Electric outward blue.
+C · Spectrum ribbons,Authoritarian Right,Structure + Proximal,Blue teal,#367D8A,oklch(55.0% 0.073 211.4),Grounded blue-green turn.
+C · Spectrum ribbons,Authoritarian Right,Structure + Universal,Glacier,#7DD4D3,oklch(81.5% 0.084 194.7),Airy cyan endpoint.
+C · Spectrum ribbons,Libertarian Right,Agency + Proximal,Grape,#77368E,oklch(45.8% 0.149 316.3),Rich purple anchor.
+C · Spectrum ribbons,Libertarian Right,Agency + Universal,Hot pink,#E747A4,oklch(65.1% 0.214 348.9),Expressive purple-to-pink.
+C · Spectrum ribbons,Libertarian Right,Structure + Proximal,Clay rose,#B46B87,oklch(61.6% 0.099 355.9),Grounded pink bridge.
+C · Spectrum ribbons,Libertarian Right,Structure + Universal,Peach,#F5B598,oklch(82.5% 0.085 45.4),Open warm endpoint.
+C · Spectrum ribbons,Libertarian Left,Agency + Proximal,Rainforest,#216F54,oklch(48.7% 0.087 165.9),Concentrated green anchor.
+C · Spectrum ribbons,Libertarian Left,Agency + Universal,Spring green,#72BC47,oklch(72.2% 0.169 135.8),Energetic yellow-green.
+C · Spectrum ribbons,Libertarian Left,Structure + Proximal,Citron,#A6AB3C,oklch(71.6% 0.133 111.8),Grounded green-gold.
+C · Spectrum ribbons,Libertarian Left,Structure + Universal,Mint,#A5DCB6,oklch(84.6% 0.077 154.3),Airy green endpoint.
+D · Mineral & jewel,Authoritarian Left,Agency + Proximal,Oxblood,#8E3045,oklch(45.2% 0.128 10.3),"Dense, warm red jewel."
+D · Mineral & jewel,Authoritarian Left,Agency + Universal,Vermilion,#DE573D,oklch(62.9% 0.174 32.8),Clear mineral red-orange.
+D · Mineral & jewel,Authoritarian Left,Structure + Proximal,Bronze,#A8783B,oklch(60.9% 0.098 70.6),Grounded metallic warmth.
+D · Mineral & jewel,Authoritarian Left,Structure + Universal,Porcelain rose,#DE9EAC,oklch(76.4% 0.078 4.7),"Quiet, open rose."
+D · Mineral & jewel,Authoritarian Right,Agency + Proximal,Sapphire,#30579D,oklch(46.6% 0.122 261.1),Deep blue jewel.
+D · Mineral & jewel,Authoritarian Right,Agency + Universal,Cerulean,#269DBB,oklch(64.6% 0.108 219.5),"Clear, outward blue."
+D · Mineral & jewel,Authoritarian Right,Structure + Proximal,Antique gold,#B8A04B,oklch(71.0% 0.109 93.7),Earthbound gold exception.
+D · Mineral & jewel,Authoritarian Right,Structure + Universal,Blue quartz,#93BACC,oklch(76.7% 0.049 227.8),Spacious mineral blue.
+D · Mineral & jewel,Libertarian Right,Agency + Proximal,Orchid,#A92CAA,oklch(53.6% 0.211 327.7),Rich warm purple.
+D · Mineral & jewel,Libertarian Right,Agency + Universal,Amethyst,#8960C5,oklch(57.7% 0.153 300.4),Clear violet jewel.
+D · Mineral & jewel,Libertarian Right,Structure + Proximal,Aubergine,#56385E,oklch(39.1% 0.073 319.0),"Grounded, concentrated plum."
+D · Mineral & jewel,Libertarian Right,Structure + Universal,Wisteria,#B3A3D0,oklch(74.4% 0.066 301.1),Open mineral violet.
+D · Mineral & jewel,Libertarian Left,Agency + Proximal,Malachite,#257658,oklch(50.9% 0.092 164.6),Deep green jewel.
+D · Mineral & jewel,Libertarian Left,Agency + Universal,Peridot,#A4BF4B,oklch(76.1% 0.145 121.0),Luminous yellow-green.
+D · Mineral & jewel,Libertarian Left,Structure + Proximal,Laurel,#697B4C,oklch(55.6% 0.072 125.7),Grounded botanical green.
+D · Mineral & jewel,Libertarian Left,Structure + Universal,Amazonite,#71B7A8,oklch(72.9% 0.074 178.9),Spacious blue-green stone.
+E · Best-of — Prism & mineral,Authoritarian Left,Agency + Proximal,Ruby,#B52346,oklch(50.9% 0.180 13.7),Rich red anchor; B.
+E · Best-of — Prism & mineral,Authoritarian Left,Agency + Universal,Tangerine,#F58A38,oklch(73.6% 0.159 54.0),Radiant outward warmth; C.
+E · Best-of — Prism & mineral,Authoritarian Left,Structure + Proximal,Terracotta,#B96950,oklch(60.5% 0.109 38.1),Grounded red-orange; A.
+E · Best-of — Prism & mineral,Authoritarian Left,Structure + Universal,Blush pink,#F3A7CA,oklch(81.2% 0.099 350.3),"Airy, cooler red relative; B."
+E · Best-of — Prism & mineral,Authoritarian Right,Agency + Proximal,Cobalt,#2854C5,oklch(48.6% 0.183 264.4),Concentrated blue anchor; B.
+E · Best-of — Prism & mineral,Authoritarian Right,Agency + Universal,Electric cyan,#00B9D6,oklch(72.3% 0.127 214.2),"Clear, expansive blue-green; B."
+E · Best-of — Prism & mineral,Authoritarian Right,Structure + Proximal,Marigold,#D5A51D,oklch(74.6% 0.146 86.5),Grounded gold exception; B.
+E · Best-of — Prism & mineral,Authoritarian Right,Structure + Universal,Sky,#8BC9F1,oklch(80.8% 0.085 237.5),"Open, spacious blue; B."
+E · Best-of — Prism & mineral,Libertarian Right,Agency + Proximal,Orchid,#A92CAA,oklch(53.6% 0.211 327.7),Rich warm purple; D.
+E · Best-of — Prism & mineral,Libertarian Right,Agency + Universal,Violet,#7550E8,oklch(55.8% 0.217 288.5),"Clear, energetic purple; B."
+E · Best-of — Prism & mineral,Libertarian Right,Structure + Proximal,Aubergine,#56385E,oklch(39.1% 0.073 319.0),"Earthier, anchored plum; D."
+E · Best-of — Prism & mineral,Libertarian Right,Structure + Universal,Lavender,#B3A0E6,oklch(74.8% 0.101 296.3),Airy violet ancestry; B.
+E · Best-of — Prism & mineral,Libertarian Left,Agency + Proximal,Jade,#147D56,oklch(52.4% 0.109 161.8),Concentrated living green; B.
+E · Best-of — Prism & mineral,Libertarian Left,Agency + Universal,Chartreuse,#B9CF35,oklch(81.1% 0.171 117.6),Luminous yellow-green; B.
+E · Best-of — Prism & mineral,Libertarian Left,Structure + Proximal,Olive,#737A35,oklch(55.8% 0.093 114.3),Grounded botanical green; B.
+E · Best-of — Prism & mineral,Libertarian Left,Structure + Universal,Lagoon,#379E9B,oklch(64.0% 0.093 192.3),Cool green-teal; refined from B.
